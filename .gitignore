@@ -36,12 +36,15 @@ venv/
 # HuggingFace / model weights (large files)
 # ─────────────────────────────────────────────
 models/
+models copy/
+models_v3/
 *.bin
 *.pt
 *.pth
 *.onnx
 *.safetensors
 .cache/
+
 
 # ─────────────────────────────────────────────
 # OS / Editor
